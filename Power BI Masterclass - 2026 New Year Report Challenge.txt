@@ -1,0 +1,35 @@
+Power BI Masterclass - 2025 End Year Report Challenge
+
+Contact: powerbi-masterclass@outlook.com
+Repository: https://github.com/powerbi-masterclass/2025-end-year-report-challenge
+
+--Introduction--
+Power BI Masterclass is publication on Medium.com
+Part of this report challenge statistics of this publication is provided in GitHub repository
+Reports are created based Instruction provided bellow in section Instruction
+Challenge is running from 22.12.2025 up to 8.1.2026
+
+
+
+--Instruction--
+Use Story.csv and StoryStats.csv from GitHub repository
+Create Power BI dashboard with minimum
+  1. Page showing grow of Power BI Masterclass Publication based on numer of article published (cummulative)
+  2. Page showing evolution of Reads Total and Reads Total Member per month
+  3. Page with database of articles for user to filter/sort articles and use url link to access article
+    // Filtering should be available for author and fields from Classification column in Story.csv (JSON to be extracted)
+  4. Add footer to all your pages that will identify you as a creator (with links to your LinkedIn, Linktree etc.)
+  5. (Optional) Create your Author BIO page
+
+Comment on this post on LinkedIn:
+  - with printscreen of your dashboard
+  - with link to live dashboard (if you don't have your free Power BI service account, you can share it here: https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery )
+  - provide link for GitHub repository so the others can learn from your
+
+--Prices--
+1. Best Report Overall - 1 report - 100 USD - choosen by Power BI Masterclass authors
+2. Most likes - 1 report -  50 
+3. Random - 10 reports - lifetime access to all Power BI Masterclass articles
+
+
+
