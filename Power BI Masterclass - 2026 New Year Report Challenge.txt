@@ -1,35 +1,50 @@
-Power BI Masterclass - 2025 End Year Report Challenge
+Power BI Masterclass - 2026 New Year Report Challenge
 
+Web: https://www.linkedin.com/company/microsoft-power-bi-masterclass
 Contact: powerbi-masterclass@outlook.com
-Repository: https://github.com/powerbi-masterclass/2025-end-year-report-challenge
+Repository: https://github.com/powerbi-masterclass/2026-new-year-report-challenge
 
 --Introduction--
-Power BI Masterclass is publication on Medium.com
-Part of this report challenge statistics of this publication is provided in GitHub repository
-Reports are created based Instruction provided bellow in section Instruction
-Challenge is running from 22.12.2025 up to 8.1.2026
-
-
+Power BI Masterclass is publication on Medium.com https://medium.com/microsoft-power-bi
+The goal of this challenge is to create Power BI dashboard based on instructions provided in section Instruction
 
 --Instruction--
 Use Story.csv and StoryStats.csv from GitHub repository
-Create Power BI dashboard with minimum
-  1. Page showing grow of Power BI Masterclass Publication based on numer of article published (cummulative)
-  2. Page showing evolution of Reads Total and Reads Total Member per month
+The goal is to create Power BI dashboard that will provide user friendly way to search in database of our articles.
+
+Create Power BI dashboard with minimum:
+  1. Page showing grow of Power BI Masterclass Publication based on number of articles published (cummulative)
+  2. Page showing evolution of ReadsTotal and ReadsTotalMember per month
   3. Page with database of articles for user to filter/sort articles and use url link to access article
     // Filtering should be available for author and fields from Classification column in Story.csv (JSON to be extracted)
-  4. Add footer to all your pages that will identify you as a creator (with links to your LinkedIn, Linktree etc.)
+  4. Add footer to all your pages that will identify you as a creator (with links to your LinkedIn, Linktree, Portfolio etc.)
+    // We will share reports on our LinkedIn page so this will bring you audience
   5. (Optional) Create your Author BIO page
 
-Comment on this post on LinkedIn:
-  - with printscreen of your dashboard
-  - with link to live dashboard (if you don't have your free Power BI service account, you can share it here: https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery )
-  - provide link for GitHub repository so the others can learn from your
+Create post on LinkedIn with:
+  - Introduction of your post, description of dashboard, etc.
+  - Add pictures of your dashboard
+  - Provide link to your live dashboard
+    // if you don't have your free Power BI service account, you can send it to us and we will upload it and send report link to you: https://tally.so/r/dW00zA 
+    //or share it here: https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery  
+  - Tag our page @Power BI Masterclass
+  - Add hashtags #PowerBI #PowerBiMasterclass #DataVisualization #dataviz #datafam #PbimChallenge2026
+  - (optional) Provide link for your GitHub repository so the others can learn from your work
+
+--Voting--
+  - Challenge will close by 31.1.2026 end of the day 
+  - Post with link for voting will be posted 1.2.2026 on https://www.linkedin.com/company/microsoft-power-bi-masterclass
+  - All participants will be tagged in this post
+  - Voting will be closed 7.2.2026
+  - Winners will be choosen 8.2.2026
 
 --Prices--
-1. Best Report Overall - 1 report - 100 USD - choosen by Power BI Masterclass authors
-2. Most likes - 1 report -  50 
-3. Random - 10 reports - lifetime access to all Power BI Masterclass articles
+  1. Best Report Overall - 1 report - 50 $ - based on the voting at the end of the challenge
+    //The condition is to agree that we can use your report within our publication
+  2. Most likes on LinkedIn - 1 report -  20 $
+  3. Top 3 reports base on voting - lifetime access to our Power BI Masterclass publication
+  4. Top 3 reports based on likes on LinkedIn - lifetime access to our Power BI Masterclass publication
+  5. 3 random reports - lifetime access to our Power BI Masterclass publication
 
 
 
