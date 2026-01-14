@@ -9,17 +9,9 @@ Power BI Masterclass is publication on Medium.com https://medium.com/microsoft-p
 The goal of this challenge is to create Power BI dashboard based on instructions provided in section Instruction
 
 --Instruction--
-Use Story.csv and StoryStats.csv from GitHub repository
-The goal is to create Power BI dashboard that will provide user friendly way to search in database of our articles.
-
-Create Power BI dashboard with minimum:
-  1. Page showing grow of Power BI Masterclass Publication based on number of articles published (cummulative)
-  2. Page showing evolution of ReadsTotal and ReadsTotalMember per month
-  3. Page with database of articles for user to filter/sort articles and use url link to access article
-    // Filtering should be available for author and fields from Classification column in Story.csv (JSON to be extracted)
-  4. Add footer to all your pages that will identify you as a creator (with links to your LinkedIn, Linktree, Portfolio etc.)
-    // We will share reports on our LinkedIn page so this will bring you audience
-  5. (Optional) Create your Author BIO page
+Use Story.csv and StoryStats.csv from GitHub repository https://github.com/powerbi-masterclass/2026-new-year-report-challenge
+Your report should allow users to view publication growth, explore read statistics over time, and browse/filter the article database with accessible URLs.
+Feel free to add footer or dedicated page with your LinkedIn, Linktree, Portfolio etc.
 
 Create post on LinkedIn with:
   - Introduction of your post, description of dashboard, etc.
@@ -36,7 +28,7 @@ Create post on LinkedIn with:
   - Post with link for voting will be posted 1.2.2026 on https://www.linkedin.com/company/microsoft-power-bi-masterclass
   - All participants will be tagged in this post
   - Voting will be closed 7.2.2026
-  - Winners will be choosen 8.2.2026
+  - Winners will be chosen 8.2.2026
 
 --Prices--
   1. Best Report Overall - 1 report - 50 $ - based on the voting at the end of the challenge
@@ -45,6 +37,3 @@ Create post on LinkedIn with:
   3. Top 3 reports base on voting - lifetime access to our Power BI Masterclass publication
   4. Top 3 reports based on likes on LinkedIn - lifetime access to our Power BI Masterclass publication
   5. 3 random reports - lifetime access to our Power BI Masterclass publication
-
-
-
