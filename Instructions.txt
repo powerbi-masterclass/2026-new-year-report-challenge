@@ -22,6 +22,7 @@ Create post on LinkedIn with:
   - Tag our page @Power BI Masterclass
   - Add hashtags #PowerBI #PowerBiMasterclass #DataVisualization #dataviz #datafam #PbimChallenge2026
   - (optional) Provide link for your GitHub repository so the others can learn from your work
+  You can find an example of how participation post should looks like here: https://www.linkedin.com/feed/update/urn:li:activity:7417849462074793985
 
 --Voting--
   - Challenge will close by 31.1.2026 end of the day 
