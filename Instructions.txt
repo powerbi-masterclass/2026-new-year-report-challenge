@@ -5,27 +5,29 @@ Contact: powerbi-masterclass@outlook.com
 Repository: https://github.com/powerbi-masterclass/2026-new-year-report-challenge
 
 --Introduction--
-Power BI Masterclass is publication on Medium.com https://medium.com/microsoft-power-bi
-The goal of this challenge is to create Power BI dashboard based on instructions provided in section Instruction
+Power BI Masterclass is a publication on Medium.com https://medium.com/microsoft-power-bi
+The goal of this challenge is to create a Power BI dashboard based on the instructions provided in the section Instruction.
 
 --Instruction--
-Use Story.csv and StoryStats.csv from GitHub repository https://github.com/powerbi-masterclass/2026-new-year-report-challenge
+Use Story.csv and StoryStats.csv from the GitHub repository https://github.com/powerbi-masterclass/2026-new-year-report-challenge
 Your report should allow users to view publication growth, explore read statistics over time, and browse/filter the article database with accessible URLs.
-Feel free to add footer or dedicated page with your LinkedIn, Linktree, Portfolio etc.
+Feel free to add a footer or dedicated page with your LinkedIn, Linktree, Portfolio etc.
+Story.csv file contains a list of articles published by authors in our publication with lifetime statistics and classification.
+StoryStats.csv file contains monthly statistics for articles.
 
-Create post on LinkedIn with:
+Create a post on LinkedIn with:
   - Introduction of your post, description of dashboard, etc.
   - Add pictures of your dashboard
-  - Provide link to your live dashboard
-    // if you don't have your free Power BI service account, you can send it to us and we will upload it and send report link to you: https://tally.so/r/dW00zA 
+  - Provide a link to your live dashboard
+    // if you don't have your free Power BI service account, you can send it to us, and we will upload it and send the report link to you: https://tally.so/r/dW00zA 
     //or share it here: https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery  
   - Tag our page @Power BI Masterclass
   - Add hashtags #PowerBI #PowerBiMasterclass #DataVisualization #dataviz #datafam #PbimChallenge2026
-  - (optional) Provide link for your GitHub repository so the others can learn from your work
-  You can find an example of how participation post should looks like here: https://www.linkedin.com/feed/update/urn:li:activity:7417849462074793985
+  - (optional) Provide a link to your GitHub repository so the others can learn from your work
+  You can find an example of how a participation post should look here: https://www.linkedin.com/feed/update/urn:li:activity:7417849462074793985
 
 --Voting--
-  - Challenge will close by 31.1.2026 end of the day 
+  - Challenge will close by 31.1.2026, end of the day 
   - Post with link for voting will be posted 1.2.2026 on https://www.linkedin.com/company/microsoft-power-bi-masterclass
   - All participants will be tagged in this post
   - Voting will be closed 7.2.2026
@@ -35,6 +37,6 @@ Create post on LinkedIn with:
   1. Best Report Overall - 1 report - 50 $ - based on the voting at the end of the challenge
     //The condition is to agree that we can use your report within our publication
   2. Most likes on LinkedIn - 1 report -  20 $
-  3. Top 3 reports base on voting - lifetime access to our Power BI Masterclass publication
+  3. Top 3 reports based on voting - lifetime access to our Power BI Masterclass publication
   4. Top 3 reports based on likes on LinkedIn - lifetime access to our Power BI Masterclass publication
   5. 3 random reports - lifetime access to our Power BI Masterclass publication
