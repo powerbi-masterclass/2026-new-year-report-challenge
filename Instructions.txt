@@ -9,11 +9,8 @@ Power BI Masterclass is a publication on Medium.com https://medium.com/microsoft
 The goal of this challenge is to create a Power BI dashboard based on the instructions provided in the section Instruction.
 
 --Instruction--
-<<<<<<< HEAD
-Use Story.csv and StoryStats.csv from the GitHub repository https://github.com/powerbi-masterclass/2026-new-year-report-challenge
-=======
-Use Story.csv and StoryStats.csv from GitHub repository https://github.com/powerbi-masterclass/2026-new-year-report-challenge (open file in the repository, and there isa  download button on top right corner)
->>>>>>> 2d6c1be8e947989072cb57fbef0fa08f43bcc1d7
+Use Story.csv and StoryStats.csv from GitHub repository https://github.com/powerbi-masterclass/2026-new-year-report-challenge 
+//open file in the repository, and there is a  download button in the on top right corner
 Your report should allow users to view publication growth, explore read statistics over time, and browse/filter the article database with accessible URLs.
 Feel free to add a footer or dedicated page with your LinkedIn, Linktree, Portfolio etc.
 Story.csv file contains a list of articles published by authors in our publication with lifetime statistics and classification.
